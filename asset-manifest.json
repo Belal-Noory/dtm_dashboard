@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dtm_dashboard/static/css/main.241951ba.css",
+    "main.js": "/dtm_dashboard/static/js/main.882e267d.js",
+    "index.html": "/dtm_dashboard/index.html",
+    "main.241951ba.css.map": "/dtm_dashboard/static/css/main.241951ba.css.map",
+    "main.882e267d.js.map": "/dtm_dashboard/static/js/main.882e267d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.882e267d.js"
+  ]
+}
